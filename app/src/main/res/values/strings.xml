@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grapclonfordriver</string>
+    <string name="title_activity_home">Map</string>
+    <string name="google_direction_api">AIzaSyAWXelgWb7ztLu4yn0FWj2yKHGJ-9XJdxQ</string>
+</resources>

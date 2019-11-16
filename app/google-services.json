@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559693134864",
+    "firebase_url": "https://grapclone-d5bd5.firebaseio.com",
+    "project_id": "grapclone-d5bd5",
+    "storage_bucket": "grapclone-d5bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559693134864:android:e24810820f7e5442b3de95",
+        "android_client_info": {
+          "package_name": "com.cnt57cl.grapclonfordriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559693134864-166flic4emkulvu1askbe72vht3cljsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cnt57cl.grapclonfordriver",
+            "certificate_hash": "623697b4f3f41c5e6abca3b1e954cffd14a7ff0f"
+          }
+        },
+        {
+          "client_id": "559693134864-lonogad8lqia3cu280k7a0f1ro37j4tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWXelgWb7ztLu4yn0FWj2yKHGJ-9XJdxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559693134864-lonogad8lqia3cu280k7a0f1ro37j4tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
